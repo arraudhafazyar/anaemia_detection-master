@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode & IDE settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Model and data files
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.npy
+*.npz
+data/
+datasets/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
