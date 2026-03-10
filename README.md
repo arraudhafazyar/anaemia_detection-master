@@ -1,7 +1,7 @@
 # Anemalyze — Non-Invasive Early Anemia Detection System Using Convolutional Neural Network in Women of Reproductive Age
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
   <img src="https://img.shields.io/badge/Flask-API-lightgrey?logo=flask" />
   <img src="https://img.shields.io/badge/Laravel-Frontend-red?logo=laravel" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?logo=raspberrypi" />
@@ -78,7 +78,7 @@ anaemia_detection-master/
 
 ### Prerequisites
 - Raspberry Pi 5 with Raspberry Pi OS
-- Python 3.10+
+- Python 3.12
 - Pi Camera v3 connected
 - MAX30100 sensor connected via I2C
 
