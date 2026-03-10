@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Flask-API-lightgrey?logo=flask" />
   <img src="https://img.shields.io/badge/Laravel-Frontend-red?logo=laravel" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?logo=raspberrypi" />
-  <img src="https://img.shields.io/badge/Accuracy-99.7%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Accuracy-86%25-brightgreen" />
 </p>
 
 > A non-invasive anemia detection system for women of reproductive age, combining conjunctival image analysis with physiological sensor measurements using deep learning.
