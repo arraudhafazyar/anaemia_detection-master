@@ -34,7 +34,7 @@ The system is designed for clinical use, targeting accuracy ≥85% with system f
 
 | Layer | Technology |
 |-------|-----------|
-| Hardware | Raspberry Pi 5, Pi Camera v3, MAX30100 sensor |
+| Hardware | Raspberry Pi 5, Pi Camera v3, MAX30100 sensor, LED |
 | Segmentation | LinkNet (Segmentation Models PyTorch) |
 | Classification | MobileNetV2 + ImageNet preprocessing |
 | Backend API | Flask (Python) |
@@ -138,7 +138,7 @@ sudo raspi-config
 | Metric | Target | Result |
 |--------|--------|--------|
 | Classification Accuracy | ≥ 85% | **86%** |
-| Computation Time | ≤ 2 seconds | Met |
+| Computation Time | ≤ 5 seconds | Met |
 | System Feedback | ≤ 5 seconds | Met |
 
 
@@ -157,4 +157,4 @@ This project is developed as an undergraduate thesis at **Universitas Andalas**.
 
 ## Author
 
-**Jya** — Computer Engineering, Universitas Andalas
+**Arraudha Fazya Ramadhani** — Computer Engineering, Universitas Andalas
