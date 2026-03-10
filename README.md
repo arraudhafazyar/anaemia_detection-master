@@ -91,9 +91,13 @@ pip install -r requirements.txt
 # Run the Flask API
 python api.py
 ```
-Model Files
-The model files are not included in this repository due to size limitations. Download them from the link below and place them inside the models/ directory.
+# Model Files
+
+> The model files are not included in this repository due to size limitations. Download them from the link below and place them inside the models/ directory.
+```
 https://drive.google.com/drive/folders/1ctZmBL7i7iVMDMJTfll5ZFhZ6oXXn2Cc?usp=sharing
+```
+
 ---
 
 ## Hardware Setup
