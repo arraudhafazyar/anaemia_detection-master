@@ -1,4 +1,4 @@
-# Anemalyze — Non-Invasive Anemia Detection System
+# Anemalyze — Non-Invasive Early Anemia Detection System Using Convolutional Neural Network in Women of Reproductive Age
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
