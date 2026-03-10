@@ -1,13 +1,5 @@
 # Anemalyze — Non-Invasive Early Anemia Detection System Using Convolutional Neural Network in Women of Reproductive Age
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Flask-API-lightgrey?logo=flask" />
-  <img src="https://img.shields.io/badge/Laravel-Frontend-red?logo=laravel" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?logo=raspberrypi" />
-  <img src="https://img.shields.io/badge/Accuracy-86%25-brightgreen" />
-</p>
-
 > A non-invasive anemia detection system for women of reproductive age, combining conjunctival image analysis with physiological sensor measurements using deep learning.
 
 ---
@@ -99,7 +91,9 @@ pip install -r requirements.txt
 # Run the Flask API
 python api.py
 ```
-
+Model Files
+The model files are not included in this repository due to size limitations. Download them from the link below and place them inside the models/ directory.
+https://drive.google.com/drive/folders/1ctZmBL7i7iVMDMJTfll5ZFhZ6oXXn2Cc?usp=sharing
 ---
 
 ## Hardware Setup
